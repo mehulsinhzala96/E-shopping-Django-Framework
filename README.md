@@ -1,2 +1,2 @@
 # E-shopping-Django-Framework
-Online Shopping Site for Fashion &amp; Lifestyle Using Django Framework 
+Online clothes Shopping Web-Site for Women,Men & children Using Django Framework.
